@@ -1,5 +1,3 @@
- [![HitCount](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fn0str%2Fn0str.json%3Fcolor%3Dblue&label=Views&color=blue)](https://github.com/n0str)
-
 ### Hi there 👋
 
 <!--
